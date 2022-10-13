@@ -1,0 +1,2957 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/js/bootstrap.js",
+      "PackagePath": "staticwebassets/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/.nuget/packages/bootstrap/5.2.1/contentFiles/any/any/wwwroot/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/.DS_Store",
+      "PackagePath": "staticwebassets/lib/bootstrap/.DS_Store"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/CODE_OF_CONDUCT.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/CODE_OF_CONDUCT.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/README.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/README.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/SECURITY.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/SECURITY.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/build/.eslintrc.json",
+      "PackagePath": "staticwebassets/lib/bootstrap/build/.eslintrc.json"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/build/banner.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/build/banner.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/build/build-plugins.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/build/build-plugins.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/build/change-version.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/build/change-version.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/build/generate-sri.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/build/generate-sri.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/build/postcss.config.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/build/postcss.config.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/build/rollup.config.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/build/rollup.config.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/build/vnu-jar.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/build/vnu-jar.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/build/zip-examples.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/build/zip-examples.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/composer.json",
+      "PackagePath": "staticwebassets/lib/bootstrap/composer.json"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/config.yml",
+      "PackagePath": "staticwebassets/lib/bootstrap/config.yml"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/.DS_Store",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/.DS_Store"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/.DS_Store",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/.DS_Store"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/.DS_Store",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/.DS_Store"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/alert.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/alert.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/alert.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/alert.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/base-component.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/base-component.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/base-component.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/base-component.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/button.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/button.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/button.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/button.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/carousel.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/carousel.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/carousel.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/carousel.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/collapse.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/collapse.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/collapse.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/collapse.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/dom/data.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/dom/data.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/dom/data.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/dom/data.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/dom/event-handler.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/dom/event-handler.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/dom/event-handler.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/dom/event-handler.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/dom/manipulator.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/dom/manipulator.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/dom/manipulator.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/dom/manipulator.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/dom/selector-engine.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/dom/selector-engine.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/dom/selector-engine.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/dom/selector-engine.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/dropdown.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/dropdown.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/dropdown.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/dropdown.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/modal.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/modal.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/modal.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/modal.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/offcanvas.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/offcanvas.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/offcanvas.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/offcanvas.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/popover.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/popover.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/popover.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/popover.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/scrollspy.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/scrollspy.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/scrollspy.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/scrollspy.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/tab.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/tab.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/tab.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/tab.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/toast.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/toast.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/toast.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/toast.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/tooltip.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/tooltip.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/tooltip.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/tooltip.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/util/backdrop.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util/backdrop.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/util/backdrop.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util/backdrop.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/util/component-functions.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util/component-functions.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/util/component-functions.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util/component-functions.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/util/config.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util/config.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/util/config.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util/config.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/util/focustrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util/focustrap.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/util/focustrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util/focustrap.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/util/index.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util/index.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/util/index.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util/index.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/util/sanitizer.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util/sanitizer.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/util/sanitizer.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util/sanitizer.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/util/scrollbar.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util/scrollbar.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/util/scrollbar.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util/scrollbar.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/util/swipe.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util/swipe.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/util/swipe.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util/swipe.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/util/template-factory.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util/template-factory.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/dist/util/template-factory.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util/template-factory.js.map"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/index.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/index.esm.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/index.umd.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/index.umd.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/.DS_Store",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/.DS_Store"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/alert.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/alert.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/base-component.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/base-component.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/button.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/button.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/carousel.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/carousel.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/collapse.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/collapse.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/dom/data.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/dom/data.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/dom/event-handler.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/dom/event-handler.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/dom/manipulator.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/dom/manipulator.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/dom/selector-engine.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/dom/selector-engine.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/dropdown.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/dropdown.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/modal.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/modal.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/offcanvas.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/offcanvas.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/popover.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/popover.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/scrollspy.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/scrollspy.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/tab.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/tab.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/toast.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/toast.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/tooltip.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/tooltip.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/util/backdrop.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/util/backdrop.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/util/component-functions.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/util/component-functions.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/util/config.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/util/config.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/util/focustrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/util/focustrap.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/util/index.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/util/index.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/util/sanitizer.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/util/sanitizer.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/util/scrollbar.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/util/scrollbar.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/util/swipe.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/util/swipe.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/src/util/template-factory.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/util/template-factory.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/.DS_Store",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/.DS_Store"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/README.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/README.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/browsers.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/browsers.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/helpers/fixture.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/helpers/fixture.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/integration/bundle-modularity.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/integration/bundle-modularity.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/integration/bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/integration/bundle.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/integration/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/integration/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/integration/rollup.bundle-modularity.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/integration/rollup.bundle-modularity.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/integration/rollup.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/integration/rollup.bundle.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/karma.conf.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/karma.conf.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/.eslintrc.json",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/.eslintrc.json"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/alert.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/alert.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/base-component.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/base-component.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/button.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/button.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/carousel.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/carousel.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/collapse.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/collapse.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/dom/data.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/dom/data.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/dom/event-handler.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/dom/event-handler.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/dom/manipulator.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/dom/manipulator.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/dom/selector-engine.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/dom/selector-engine.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/dropdown.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/dropdown.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/jquery.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/jquery.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/modal.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/modal.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/offcanvas.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/offcanvas.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/popover.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/popover.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/scrollspy.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/scrollspy.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/tab.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/tab.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/toast.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/toast.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/tooltip.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/tooltip.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/util/backdrop.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/util/backdrop.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/util/component-functions.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/util/component-functions.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/util/config.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/util/config.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/util/focustrap.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/util/focustrap.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/util/index.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/util/index.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/util/sanitizer.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/util/sanitizer.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/util/scrollbar.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/util/scrollbar.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/util/swipe.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/util/swipe.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/unit/util/template-factory.spec.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/unit/util/template-factory.spec.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/visual/alert.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/visual/alert.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/visual/button.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/visual/button.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/visual/carousel.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/visual/carousel.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/visual/collapse.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/visual/collapse.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/visual/dropdown.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/visual/dropdown.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/visual/modal.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/visual/modal.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/visual/popover.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/visual/popover.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/visual/scrollspy.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/visual/scrollspy.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/visual/tab.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/visual/tab.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/visual/toast.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/visual/toast.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/js/tests/visual/tooltip.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tests/visual/tooltip.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/nuget/MyGet.ps1",
+      "PackagePath": "staticwebassets/lib/bootstrap/nuget/MyGet.ps1"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/nuget/bootstrap.nuspec",
+      "PackagePath": "staticwebassets/lib/bootstrap/nuget/bootstrap.nuspec"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/nuget/bootstrap.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/nuget/bootstrap.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/nuget/bootstrap.sass.nuspec",
+      "PackagePath": "staticwebassets/lib/bootstrap/nuget/bootstrap.sass.nuspec"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/package-lock.json",
+      "PackagePath": "staticwebassets/lib/bootstrap/package-lock.json"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/package.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/package.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/package.json",
+      "PackagePath": "staticwebassets/lib/bootstrap/package.json"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/.DS_Store",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/.DS_Store"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_accordion.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_accordion.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_alert.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_alert.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_badge.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_badge.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_button-group.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_button-group.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_buttons.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_buttons.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_card.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_card.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_carousel.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_carousel.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_close.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_close.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_containers.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_containers.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_dropdown.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_forms.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_forms.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_functions.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_functions.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_grid.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_grid.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_helpers.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_helpers.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_images.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_images.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_list-group.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_list-group.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_maps.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_maps.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_modal.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_modal.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_nav.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_nav.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_navbar.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_navbar.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_offcanvas.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_offcanvas.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_pagination.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_pagination.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_placeholders.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_placeholders.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_popover.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_popover.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_progress.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_progress.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_reboot.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_reboot.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_root.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_root.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_spinners.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_spinners.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_tables.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_tables.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_toasts.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_toasts.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_tooltip.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_tooltip.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_transitions.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_transitions.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_type.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_type.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_utilities.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_utilities.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/_variables.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/bootstrap-grid.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/bootstrap-reboot.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/bootstrap-utilities.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/bootstrap.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/bootstrap.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/forms/_floating-labels.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/forms/_floating-labels.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/forms/_form-check.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/forms/_form-control.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/forms/_form-control.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/forms/_form-range.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/forms/_form-range.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/forms/_form-select.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/forms/_form-text.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/forms/_form-text.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/forms/_input-group.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/forms/_labels.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/forms/_labels.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/forms/_validation.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/forms/_validation.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/helpers/_clearfix.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/helpers/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/helpers/_color-bg.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/helpers/_color-bg.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/helpers/_colored-links.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/helpers/_colored-links.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/helpers/_position.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/helpers/_position.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/helpers/_ratio.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/helpers/_ratio.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/helpers/_stacks.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/helpers/_stacks.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/helpers/_stretched-link.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/helpers/_stretched-link.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/helpers/_text-truncation.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/helpers/_text-truncation.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/helpers/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/helpers/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/helpers/_vr.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/helpers/_vr.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_alert.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_backdrop.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_backdrop.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_banner.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_banner.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_caret.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_color-scheme.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_color-scheme.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_container.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_container.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_forms.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_grid.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_image.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_image.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_lists.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_resize.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_table-variants.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_table-variants.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_transition.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_utilities.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_utilities.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/mixins/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/utilities/_api.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_api.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/scss/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/vendor/_rfs.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/.DS_Store",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/.DS_Store"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/.eslintrc.json",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/.eslintrc.json"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/.DS_Store",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/.DS_Store"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/js/application.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/js/application.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/js/code-examples.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/js/code-examples.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/js/search.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/js/search.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/js/snippets.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/js/snippets.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/js/vendor/clipboard.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/js/vendor/clipboard.min.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_ads.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_ads.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_anchor.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_anchor.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_brand.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_brand.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_buttons.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_buttons.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_callouts.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_callouts.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_clipboard-js.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_clipboard-js.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_colors.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_colors.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_component-examples.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_component-examples.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_content.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_content.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_footer.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_footer.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_layout.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_layout.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_masthead.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_masthead.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_navbar.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_navbar.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_placeholder-img.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_placeholder-img.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_search.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_search.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_sidebar.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_sidebar.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_skippy.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_skippy.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_syntax.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_syntax.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_toc.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_toc.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/_variables.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/assets/scss/docs.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/assets/scss/docs.scss"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/404.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/404.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/_index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/_index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/about/brand.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/about/brand.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/about/license.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/about/license.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/about/overview.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/about/overview.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/about/team.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/about/team.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/about/translations.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/about/translations.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/accordion.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/accordion.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/alerts.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/alerts.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/badge.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/badge.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/breadcrumb.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/breadcrumb.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/button-group.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/button-group.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/buttons.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/buttons.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/card.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/card.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/carousel.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/carousel.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/close-button.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/close-button.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/collapse.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/collapse.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/dropdowns.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/dropdowns.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/list-group.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/list-group.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/modal.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/modal.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/navbar.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/navbar.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/navs-tabs.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/navs-tabs.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/offcanvas.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/offcanvas.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/pagination.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/pagination.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/placeholders.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/placeholders.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/popovers.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/popovers.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/progress.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/progress.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/scrollspy.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/scrollspy.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/spinners.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/spinners.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/toasts.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/toasts.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/components/tooltips.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/components/tooltips.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/content/figures.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/content/figures.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/content/images.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/content/images.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/content/reboot.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/content/reboot.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/content/tables.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/content/tables.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/content/typography.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/content/typography.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/customize/color.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/customize/color.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/customize/components.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/customize/components.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/customize/css-variables.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/customize/css-variables.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/customize/optimize.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/customize/optimize.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/customize/options.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/customize/options.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/customize/overview.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/customize/overview.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/customize/sass.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/customize/sass.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/.stylelintrc",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/.stylelintrc"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/_index.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/_index.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/album-rtl/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/album-rtl/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/album/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/album/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/blog-rtl/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/blog-rtl/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/blog/blog.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/blog/blog.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/blog/blog.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/blog/blog.rtl.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/blog/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/blog/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/carousel-rtl/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/carousel-rtl/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/carousel/carousel.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/carousel/carousel.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/carousel/carousel.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/carousel/carousel.rtl.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/carousel/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/carousel/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/cheatsheet-rtl/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/cheatsheet-rtl/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/cheatsheet/cheatsheet.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/cheatsheet/cheatsheet.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/cheatsheet/cheatsheet.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/cheatsheet/cheatsheet.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/cheatsheet/cheatsheet.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/cheatsheet/cheatsheet.rtl.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/cheatsheet/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/cheatsheet/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/checkout-rtl/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/checkout-rtl/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/checkout/form-validation.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/checkout/form-validation.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/checkout/form-validation.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/checkout/form-validation.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/checkout/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/checkout/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/cover/cover.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/cover/cover.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/cover/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/cover/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/dashboard-rtl/dashboard.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/dashboard-rtl/dashboard.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/dashboard-rtl/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/dashboard-rtl/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/dashboard/dashboard.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/dashboard/dashboard.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/dashboard/dashboard.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/dashboard/dashboard.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/dashboard/dashboard.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/dashboard/dashboard.rtl.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/dashboard/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/dashboard/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/dropdowns/dropdowns.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/dropdowns/dropdowns.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/dropdowns/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/dropdowns/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/features/features.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/features/features.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/features/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/features/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/features/unsplash-photo-1.jpg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/features/unsplash-photo-1.jpg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/features/unsplash-photo-2.jpg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/features/unsplash-photo-2.jpg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/features/unsplash-photo-3.jpg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/features/unsplash-photo-3.jpg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/footers/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/footers/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/grid/grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/grid/grid.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/grid/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/grid/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/headers/headers.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/headers/headers.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/headers/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/headers/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/heroes/bootstrap-docs.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/heroes/bootstrap-docs.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/heroes/bootstrap-themes.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/heroes/bootstrap-themes.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/heroes/heroes.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/heroes/heroes.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/heroes/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/heroes/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/jumbotron/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/jumbotron/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/list-groups/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/list-groups/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/list-groups/list-groups.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/list-groups/list-groups.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/masonry/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/masonry/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/modals/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/modals/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/modals/modals.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/modals/modals.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/navbar-bottom/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/navbar-bottom/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/navbar-fixed/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/navbar-fixed/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/navbar-fixed/navbar-top-fixed.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/navbar-fixed/navbar-top-fixed.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/navbar-static/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/navbar-static/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/navbar-static/navbar-top.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/navbar-static/navbar-top.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/navbars-offcanvas/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/navbars-offcanvas/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/navbars-offcanvas/navbar.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/navbars-offcanvas/navbar.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/navbars/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/navbars/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/navbars/navbar.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/navbars/navbar.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/offcanvas-navbar/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/offcanvas-navbar/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/offcanvas-navbar/offcanvas.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/offcanvas-navbar/offcanvas.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/offcanvas-navbar/offcanvas.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/offcanvas-navbar/offcanvas.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/pricing/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/pricing/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/pricing/pricing.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/pricing/pricing.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/product/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/product/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/product/product.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/product/product.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/sidebars/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/sidebars/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/sidebars/sidebars.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/sidebars/sidebars.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/sidebars/sidebars.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/sidebars/sidebars.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/sign-in/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/sign-in/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/sign-in/signin.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/sign-in/signin.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/starter-template/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/starter-template/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/starter-template/starter-template.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/starter-template/starter-template.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/sticky-footer-navbar/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/sticky-footer-navbar/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/sticky-footer-navbar/sticky-footer-navbar.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/sticky-footer-navbar/sticky-footer-navbar.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/sticky-footer/index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/sticky-footer/index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/examples/sticky-footer/sticky-footer.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/examples/sticky-footer/sticky-footer.css"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/extend/approach.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/extend/approach.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/extend/icons.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/extend/icons.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/forms/checks-radios.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/forms/checks-radios.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/forms/floating-labels.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/forms/floating-labels.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/forms/form-control.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/forms/form-control.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/forms/input-group.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/forms/input-group.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/forms/layout.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/forms/layout.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/forms/overview.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/forms/overview.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/forms/range.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/forms/range.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/forms/select.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/forms/select.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/forms/validation.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/forms/validation.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/getting-started/accessibility.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/getting-started/accessibility.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/getting-started/best-practices.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/getting-started/best-practices.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/getting-started/browsers-devices.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/getting-started/browsers-devices.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/getting-started/contents.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/getting-started/contents.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/getting-started/contribute.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/getting-started/contribute.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/getting-started/download.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/getting-started/download.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/getting-started/introduction.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/getting-started/introduction.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/getting-started/javascript.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/getting-started/javascript.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/getting-started/parcel.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/getting-started/parcel.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/getting-started/rfs.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/getting-started/rfs.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/getting-started/rtl.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/getting-started/rtl.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/getting-started/vite.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/getting-started/vite.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/getting-started/webpack.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/getting-started/webpack.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/helpers/clearfix.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/helpers/clearfix.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/helpers/color-background.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/helpers/color-background.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/helpers/colored-links.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/helpers/colored-links.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/helpers/position.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/helpers/position.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/helpers/ratio.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/helpers/ratio.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/helpers/stacks.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/helpers/stacks.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/helpers/stretched-link.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/helpers/stretched-link.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/helpers/text-truncation.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/helpers/text-truncation.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/helpers/vertical-rule.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/helpers/vertical-rule.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/helpers/visually-hidden.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/helpers/visually-hidden.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/layout/breakpoints.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/layout/breakpoints.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/layout/columns.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/layout/columns.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/layout/containers.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/layout/containers.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/layout/css-grid.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/layout/css-grid.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/layout/grid.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/layout/grid.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/layout/gutters.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/layout/gutters.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/layout/utilities.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/layout/utilities.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/layout/z-index.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/layout/z-index.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/migration.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/migration.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/utilities/api.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/utilities/api.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/utilities/background.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/utilities/background.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/utilities/borders.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/utilities/borders.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/utilities/colors.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/utilities/colors.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/utilities/display.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/utilities/display.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/utilities/flex.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/utilities/flex.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/utilities/float.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/utilities/float.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/utilities/interactions.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/utilities/interactions.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/utilities/opacity.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/utilities/opacity.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/utilities/overflow.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/utilities/overflow.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/utilities/position.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/utilities/position.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/utilities/shadows.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/utilities/shadows.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/utilities/sizing.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/utilities/sizing.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/utilities/spacing.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/utilities/spacing.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/utilities/text.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/utilities/text.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/utilities/vertical-align.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/utilities/vertical-align.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/5.2/utilities/visibility.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/5.2/utilities/visibility.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/_index.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/_index.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/content/docs/versions.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/content/docs/versions.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/data/breakpoints.yml",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/data/breakpoints.yml"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/data/colors.yml",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/data/colors.yml"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/data/core-team.yml",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/data/core-team.yml"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/data/docs-versions.yml",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/data/docs-versions.yml"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/data/examples.yml",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/data/examples.yml"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/data/grays.yml",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/data/grays.yml"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/data/icons.yml",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/data/icons.yml"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/data/plugins.yml",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/data/plugins.yml"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/data/sidebar.yml",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/data/sidebar.yml"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/data/theme-colors.yml",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/data/theme-colors.yml"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/data/translations.yml",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/data/translations.yml"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/.DS_Store",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/.DS_Store"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/_default/404.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/_default/404.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/_default/_markup/render-heading.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/_default/_markup/render-heading.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/_default/baseof.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/_default/baseof.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/_default/docs.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/_default/docs.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/_default/examples.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/_default/examples.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/_default/home.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/_default/home.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/_default/redirect.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/_default/redirect.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/_default/single.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/_default/single.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/alias.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/alias.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/ads.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/ads.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/analytics.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/analytics.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/callout-danger-async-methods.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/callout-danger-async-methods.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/callout-info-mediaqueries-breakpoints.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/callout-info-mediaqueries-breakpoints.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/callout-info-npm-starter.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/callout-info-npm-starter.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/callout-info-prefersreducedmotion.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/callout-info-prefersreducedmotion.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/callout-info-sanitizer.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/callout-info-sanitizer.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/callout-warning-color-assistive-technologies.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/callout-warning-color-assistive-technologies.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/callout-warning-data-bs-title-vs-title.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/callout-warning-data-bs-title-vs-title.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/callout-warning-input-support.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/callout-warning-input-support.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/docs-navbar.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/docs-navbar.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/docs-sidebar.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/docs-sidebar.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/docs-versions.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/docs-versions.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/favicons.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/favicons.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/footer.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/footer.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/guide-footer.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/guide-footer.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/header.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/header.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/home/masthead-followup.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/home/masthead-followup.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/home/masthead.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/home/masthead.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/icons.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/icons.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/icons/bootstrap-logo-solid.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/icons/bootstrap-logo-solid.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/icons/bootstrap-white-fill.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/icons/bootstrap-white-fill.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/icons/bootstrap.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/icons/bootstrap.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/icons/circle-square.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/icons/circle-square.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/icons/cloud-fill.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/icons/cloud-fill.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/icons/code.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/icons/code.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/icons/collapse.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/icons/collapse.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/icons/droplet-fill.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/icons/droplet-fill.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/icons/expand.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/icons/expand.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/icons/github.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/icons/github.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/icons/hamburger.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/icons/hamburger.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/icons/homepage-hero.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/icons/homepage-hero.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/icons/list.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/icons/list.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/icons/menu.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/icons/menu.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/icons/opencollective.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/icons/opencollective.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/icons/twitter.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/icons/twitter.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/js-data-attributes.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/js-data-attributes.md"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/redirect.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/redirect.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/scripts.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/scripts.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/skippy.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/skippy.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/social.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/social.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/stylesheet.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/stylesheet.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/partials/table-content.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/partials/table-content.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/robots.txt",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/robots.txt"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/shortcodes/added-in.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/shortcodes/added-in.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/shortcodes/bs-table.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/shortcodes/bs-table.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/shortcodes/callout.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/shortcodes/callout.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/shortcodes/docsref.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/shortcodes/docsref.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/shortcodes/example.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/shortcodes/example.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/shortcodes/js-dismiss.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/shortcodes/js-dismiss.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/shortcodes/markdown.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/shortcodes/markdown.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/shortcodes/param.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/shortcodes/param.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/shortcodes/partial.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/shortcodes/partial.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/shortcodes/placeholder.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/shortcodes/placeholder.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/shortcodes/scss-docs.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/shortcodes/scss-docs.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/shortcodes/table.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/shortcodes/table.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/shortcodes/year.html",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/shortcodes/year.html"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/layouts/sitemap.xml",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/layouts/sitemap.xml"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/CNAME",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/brand/bootstrap-logo-black.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/brand/bootstrap-logo-black.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/brand/bootstrap-logo-shadow.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/brand/bootstrap-logo-shadow.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/brand/bootstrap-logo-white.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/brand/bootstrap-logo-white.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/brand/bootstrap-logo.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/brand/bootstrap-logo.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/brand/bootstrap-social-logo.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/brand/bootstrap-social-logo.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/brand/bootstrap-social.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/brand/bootstrap-social.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/bootstrap-icons.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/bootstrap-icons.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/bootstrap-icons@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/bootstrap-icons@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/bootstrap-themes-collage.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/bootstrap-themes-collage.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/bootstrap-themes-collage@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/bootstrap-themes-collage@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/bootstrap-themes.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/bootstrap-themes.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/bootstrap-themes@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/bootstrap-themes@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/album-rtl.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/album-rtl.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/album-rtl@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/album-rtl@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/album.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/album.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/album@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/album@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/blog-rtl.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/blog-rtl.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/blog-rtl@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/blog-rtl@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/blog.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/blog.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/blog@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/blog@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/carousel-rtl.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/carousel-rtl.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/carousel-rtl@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/carousel-rtl@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/carousel.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/carousel.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/carousel@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/carousel@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/cheatsheet-rtl.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/cheatsheet-rtl.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/cheatsheet-rtl@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/cheatsheet-rtl@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/cheatsheet.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/cheatsheet.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/cheatsheet@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/cheatsheet@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/checkout-rtl.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/checkout-rtl.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/checkout-rtl@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/checkout-rtl@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/checkout.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/checkout.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/checkout@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/checkout@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/cover.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/cover.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/cover@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/cover@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/dashboard-rtl.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/dashboard-rtl.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/dashboard-rtl@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/dashboard-rtl@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/dashboard.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/dashboard.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/dashboard@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/dashboard@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/dropdowns.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/dropdowns.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/dropdowns@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/dropdowns@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/features.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/features.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/features@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/features@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/footers.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/footers.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/footers@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/footers@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/grid.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/grid.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/grid@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/grid@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/headers.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/headers.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/headers@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/headers@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/heroes.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/heroes.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/heroes@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/heroes@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/jumbotron.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/jumbotron.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/jumbotron@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/jumbotron@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/list-groups.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/list-groups.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/list-groups@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/list-groups@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/masonry.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/masonry.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/masonry@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/masonry@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/modals.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/modals.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/modals@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/modals@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbar-bottom.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbar-bottom.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbar-bottom@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbar-bottom@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbar-fixed.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbar-fixed.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbar-fixed@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbar-fixed@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbar-static.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbar-static.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbar-static@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbar-static@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbars-offcanvas.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbars-offcanvas.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbars-offcanvas@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbars-offcanvas@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbars.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbars.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbars@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/navbars@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/offcanvas-navbar.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/offcanvas-navbar.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/offcanvas-navbar@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/offcanvas-navbar@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/pricing.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/pricing.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/pricing@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/pricing@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/product.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/product.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/product@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/product@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/sidebars.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/sidebars.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/sidebars@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/sidebars@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/sign-in.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/sign-in.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/sign-in@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/sign-in@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/starter-template.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/starter-template.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/starter-template@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/starter-template@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/sticky-footer-navbar.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/sticky-footer-navbar.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/sticky-footer-navbar@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/sticky-footer-navbar@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/sticky-footer.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/sticky-footer.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/examples/sticky-footer@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/examples/sticky-footer@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/favicons/android-chrome-192x192.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/favicons/android-chrome-192x192.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/favicons/android-chrome-512x512.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/favicons/android-chrome-512x512.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/favicons/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/favicons/apple-touch-icon.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/favicons/favicon-16x16.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/favicons/favicon-16x16.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/favicons/favicon-32x32.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/favicons/favicon-32x32.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/favicons/favicon.ico",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/favicons/favicon.ico"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/favicons/manifest.json",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/favicons/manifest.json"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/favicons/safari-pinned-tab.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/favicons/safari-pinned-tab.svg"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/guides/bootstrap-parcel.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/guides/bootstrap-parcel.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/guides/bootstrap-parcel@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/guides/bootstrap-parcel@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/guides/bootstrap-vite.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/guides/bootstrap-vite.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/guides/bootstrap-vite@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/guides/bootstrap-vite@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/guides/bootstrap-webpack.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/guides/bootstrap-webpack.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/guides/bootstrap-webpack@2x.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/guides/bootstrap-webpack@2x.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/guides/parcel-dev-server-bootstrap.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/guides/parcel-dev-server-bootstrap.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/guides/parcel-dev-server.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/guides/parcel-dev-server.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/guides/vite-dev-server-bootstrap.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/guides/vite-dev-server-bootstrap.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/guides/vite-dev-server.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/guides/vite-dev-server.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/guides/webpack-dev-server-bootstrap.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/guides/webpack-dev-server-bootstrap.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/guides/webpack-dev-server.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/guides/webpack-dev-server.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/parcel.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/parcel.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/vite.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/vite.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/img/webpack.png",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/img/webpack.png"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/docs/5.2/assets/js/validate-forms.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/docs/5.2/assets/js/validate-forms.js"
+    },
+    {
+      "Id": "/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/wwwroot/lib/bootstrap/site/static/sw.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/site/static/sw.js"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.ConfiguringApps.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.ConfiguringApps.props",
+      "PackagePath": "build\\ConfiguringApps.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ConfiguringApps.props",
+      "PackagePath": "buildMultiTargeting\\ConfiguringApps.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ConfiguringApps.props",
+      "PackagePath": "buildTransitive\\ConfiguringApps.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
