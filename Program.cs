@@ -23,6 +23,16 @@ namespace ConfiguringApps
             return new WebHostBuilder()
             .UseKestrel()
             .UseContentRoot(Directory.GetCurrentDirectory())
+            .ConfigureAppConfiguration((hostingContext, config) =>
+            {
+                config.AddJsonFile("appsettings.json",
+                optional: true, reloadOnChange: true);
+                config.AddEnvironmentVariables();
+                if (args != null)
+                {
+                    config.AddCommandLine(args);
+                }
+            })
             .UseIISIntegration()
             .UseStartup<Startup>()
             .Build();
@@ -33,15 +43,3 @@ namespace ConfiguringApps
 
 }
 
-//  public static void Main(string[] args)
-//         {
-//             CreateHostBuilder(args).Build().Run();
-//             //BuildWebHost(args).Run();
-//         }
-
-//          public static IHostBuilder CreateHostBuilder(string[] args) =>
-//             Host.CreateDefaultBuilder(args)
-//                 .ConfigureWebHostDefaults(webBuilder =>
-//                 {
-//                     webBuilder.UseStartup<Startup>();
-//                 });

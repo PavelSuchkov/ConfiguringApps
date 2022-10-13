@@ -9,10 +9,22 @@ namespace ConfiguringApps.Controllers
     {
         private UptimeService uptime;
         public HomeController(UptimeService up) => uptime = up;
-        public ViewResult Index() => View(new Dictionary<string, string>
+        public ViewResult Index(bool throwException = false)
         {
-            ["Message"] = "This is the Index Action",
-            ["Uptime"] = $"{uptime.Uptime} ms"
+            if (throwException)
+            {
+                throw new System.NullReferenceException();
+            }
+            return View(new Dictionary<string, string>
+            {
+                ["Message"] = "This is the Index Action",
+                ["Uptime"] = $"{uptime.Uptime} ms"
+            });
+        }
+
+        public ViewResult Error() => View(nameof(Index), 
+        new Dictionary<string, string> {
+            ["Message"] = "This is the Error action"
         });
     }
 }

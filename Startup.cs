@@ -9,22 +9,41 @@ namespace PartyInvites
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.AddTransient<IRepository, EFRepository>();
-            services.AddMvc(options => options.EnableEndpointRouting = false);
             services.AddSingleton<UptimeService>();
+            services.AddMvc(options => options.EnableEndpointRouting = false);
+            // services.AddControllers();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostEnvironment env)
         {
-            // app.UseDeveloperExceptionPage();
-            // app.UseStatusCodePages();
-            // app.UseStaticFiles();
-            //app.UseMvcWithDefaultRoute();
-            app.UseMiddleware<ErrorMiddleware>();
-            app.UseMiddleware<BrowserTypeMiddleware>();
-            app.UseMiddleware<ShortCircuitMiddleware>();
-            app.UseMiddleware<ContentMiddleware>();
+            if (env.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+                app.UseStatusCodePages();
+                app.UseBrowserLink();
+                // app.UseMiddleware<ErrorMiddleware>();
+                // app.UseMiddleware<BrowserTypeMiddleware>();
+                // app.UseMiddleware<ShortCircuitMiddleware>();
+                // app.UseMiddleware<ContentMiddleware>();
+            }
+            else
+            {
+                app.UseExceptionHandler("/Home/Error");
+            }
+            app.UseStaticFiles();
+            app.UseMvc(routes =>
+            {
+                routes.MapRoute(
+                    name: "default",
+                    template: "{controller=Home}/{action=Index}/{id?}");
+            });
         }
     }
 }
+
+// app.UseMiddleware<ErrorMiddleware>();
+// app.UseMiddleware<BrowserTypeMiddleware>();
+// app.UseMiddleware<ShortCircuitMiddleware>();
+// app.UseMiddleware<ContentMiddleware>();
