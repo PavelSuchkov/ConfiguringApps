@@ -27,3 +27,5 @@
 /Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/ConfiguringApps.pdb
 /Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/ConfiguringApps.genruntimeconfig.cache
 /Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/ref/ConfiguringApps.dll
+/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/bin/Debug/net6.0/Microsoft.VisualStudio.Web.BrowserLink.dll
+/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/ConfiguringApps.csproj.CopyComplete
