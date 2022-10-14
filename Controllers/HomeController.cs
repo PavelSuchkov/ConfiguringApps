@@ -8,9 +8,16 @@ namespace ConfiguringApps.Controllers
     public class HomeController : Controller
     {
         private UptimeService uptime;
-        public HomeController(UptimeService up) => uptime = up;
+
+        private ILogger<HomeController> logger;
+        public HomeController(UptimeService up, ILogger<HomeController> log)
+        {
+            logger = log;
+            uptime = up;
+        }
         public ViewResult Index(bool throwException = false)
         {
+            logger.LogDebug($"Handled {Request.Path} at uptime {uptime.Uptime}");
             if (throwException)
             {
                 throw new System.NullReferenceException();
@@ -22,8 +29,9 @@ namespace ConfiguringApps.Controllers
             });
         }
 
-        public ViewResult Error() => View(nameof(Index), 
-        new Dictionary<string, string> {
+        public ViewResult Error() => View(nameof(Index),
+        new Dictionary<string, string>
+        {
             ["Message"] = "This is the Error action"
         });
     }
