@@ -14,11 +14,6 @@
 /Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/ConfiguringApps.MvcApplicationPartsAssemblyInfo.cache
 /Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/ConfiguringApps.RazorAssemblyInfo.cache
 /Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/ConfiguringApps.RazorAssemblyInfo.cs
-/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/staticwebassets/msbuild.ConfiguringApps.Microsoft.AspNetCore.StaticWebAssets.props
-/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/staticwebassets/msbuild.build.ConfiguringApps.props
-/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ConfiguringApps.props
-/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ConfiguringApps.props
-/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/staticwebassets.pack.json
 /Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/staticwebassets.build.json
 /Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/staticwebassets.development.json
 /Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/scopedcss/bundle/ConfiguringApps.styles.css
@@ -29,3 +24,8 @@
 /Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/ref/ConfiguringApps.dll
 /Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/bin/Debug/net6.0/Microsoft.VisualStudio.Web.BrowserLink.dll
 /Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/ConfiguringApps.csproj.CopyComplete
+/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/staticwebassets/msbuild.ConfiguringApps.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/staticwebassets/msbuild.build.ConfiguringApps.props
+/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ConfiguringApps.props
+/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ConfiguringApps.props
+/Users/pavelsuchkou/Projects/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/net6.0/staticwebassets.pack.json
