@@ -17,29 +17,20 @@ namespace PartyInvites
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddSingleton<UptimeService>();
-            services.AddMvc(options => options.EnableEndpointRouting = false);
-            // services.AddControllers();
+            services.AddMvc(options => options.EnableEndpointRouting = false)
+            .AddMvcOptions(options => options.RespectBrowserAcceptHeader = true);
+        }
 
+        public void ConfigureDevelopmentServices(IServiceCollection services)
+        {
+            services.AddSingleton<UptimeService>();
+            services.AddMvc(options => options.EnableEndpointRouting = false);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostEnvironment env)
         {
-            if((Configuration.GetSection("ShortCircuitMiddleware")?.GetValue<bool>("EnableBrowserShortCircuit")).Value)
-            {
-                app.UseMiddleware<BrowserTypeMiddleware>();
-                app.UseMiddleware<ShortCircuitMiddleware>();
-            }
-            if (env.IsDevelopment())
-            {
-                app.UseDeveloperExceptionPage();
-                app.UseStatusCodePages();
-                app.UseBrowserLink();
-            }
-            else
-            {
-                app.UseExceptionHandler("/Home/Error");
-            }
+            app.UseExceptionHandler("/Home/Error");
             app.UseStaticFiles();
             app.UseMvc(routes =>
             {
@@ -47,6 +38,40 @@ namespace PartyInvites
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+
+            // if ((Configuration.GetSection("ShortCircuitMiddleware")?.GetValue<bool>("EnableBrowserShortCircuit")).Value)
+            // {
+            //     app.UseMiddleware<BrowserTypeMiddleware>();
+            //     app.UseMiddleware<ShortCircuitMiddleware>();
+            // }
+            // if (env.IsDevelopment())
+            // {
+            //     app.UseDeveloperExceptionPage();
+            //     app.UseStatusCodePages();
+            //     app.UseBrowserLink();
+            // }
+            // else
+            // {
+            //     app.UseExceptionHandler("/Home/Error");
+            // }
+            // app.UseStaticFiles();
+            // app.UseMvc(routes =>
+            // {
+            //     routes.MapRoute(
+            //         name: "default",
+            //         template: "{controller=Home}/{action=Index}/{id?}");
+            // });
+
+
+        }
+
+        public void ConfigureDevelopment(IApplicationBuilder app, IHostEnvironment env)
+        {
+            app.UseDeveloperExceptionPage();
+            app.UseStatusCodePages();
+            app.UseBrowserLink();
+            app.UseStaticFiles();
+            app.UseMvcWithDefaultRoute();
         }
     }
 }
